@@ -1,2 +1,2 @@
 # pydiot
-pyhton daemons for the internet of things
+python daemons for the internet of things
